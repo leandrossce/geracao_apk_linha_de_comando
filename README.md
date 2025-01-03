@@ -221,8 +221,8 @@ Descrição: Verifica as ferramentas instaladas e disponíveis no Android SDK.
 
 11. Executa o Script
 
-chmod +x script.sh
-./script.ah
+chmod +x hello_world_script.sh
+./hello_world_script.sh
 
 
 
