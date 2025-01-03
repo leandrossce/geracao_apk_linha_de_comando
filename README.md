@@ -4,7 +4,7 @@ Este guia detalha os passos para configurar o ambiente de desenvolvimento Androi
 
 ---
 
-## 1. Atualização do Sistema
+1. Atualização do Sistema
 ```bash
 sudo apt update && sudo apt upgrade -y
 
